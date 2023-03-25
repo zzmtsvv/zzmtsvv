@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alex, a beginner in Machine Learning at NUST MISIS
+I'm Alex, a 19 y.o. beginner in Machine Learning at NUST MISIS
 <br>
 My resume can be found [here](https://drive.google.com/drive/folders/1GIlziXeNj77f4tzJt-G39DyABvNHPp9f?usp=sharing)
 
