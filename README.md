@@ -11,4 +11,5 @@ My resume can be found [here](https://drive.google.com/drive/folders/1GIlziXeNj7
 * [WaveNet Realization](https://github.com/zzmtsvv/wavenet-realization)
 * [Mini Research on Degree of Robustness in Image Reconstruction Task](https://github.com/zzmtsvv/mil_task)
 * [HiFi-GAN Realization](https://github.com/zzmtsvv/hifi-gan)
+* [Implementation of 2 Offline-to-Online Reinforcement Learning Algorithms](https://github.com/zzmtsvv/rl_task)
 
