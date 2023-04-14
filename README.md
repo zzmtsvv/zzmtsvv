@@ -12,4 +12,5 @@ My resume can be found [here](https://drive.google.com/drive/folders/1GIlziXeNj7
 * [Mini Research on Degree of Robustness in Image Reconstruction Task](https://github.com/zzmtsvv/mil_task)
 * [HiFi-GAN Realization](https://github.com/zzmtsvv/hifi-gan)
 * [Implementation of 2 Offline2Online Reinforcement Learning Algorithms](https://github.com/zzmtsvv/rl_task)
+* [Our 4th Place Solution to Marking Hack 2023](https://github.com/proton-bit/MarkingHack)
 
