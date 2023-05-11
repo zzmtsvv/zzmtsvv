@@ -14,4 +14,5 @@ My resume can be found [here](https://drive.google.com/drive/folders/1GIlziXeNj7
 * [Implementation of 2 Offline2Online Reinforcement Learning Algorithms](https://github.com/zzmtsvv/rl_task)
 * [Our 4th Place Solution to Marking Hack 2023](https://github.com/proton-bit/MarkingHack)
 * [A small review on paper about disrupting deepfakes](https://github.com/zzmtsvv/disrupting_deepfakes_review)
+* [Toy experiments with algorithms playing chess](https://github.com/zzmtsvv/chess_algorithms)
 
