@@ -14,4 +14,6 @@ I'm Alex, a 19 y.o. beginner in Machine Learning at NUST MISIS
 * [Our 4th Place Solution to Marking Hack 2023](https://github.com/proton-bit/MarkingHack)
 * [A small review on paper about disrupting deepfakes](https://github.com/zzmtsvv/disrupting_deepfakes_review)
 * [Toy experiments with algorithms playing chess](https://github.com/zzmtsvv/chess_algorithms)
+* [PPO algorithm playing in Doom](https://github.com/zzmtsvv/doom_rl)
+* [Tools for Hyperbolic Neural Networks](https://github.com/zzmtsvv/hyperbolic)
 
