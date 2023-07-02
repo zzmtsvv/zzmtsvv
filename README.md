@@ -9,6 +9,7 @@ I'm Alex, a 19 y.o. beginner in Machine Learning at NUST MISIS
 * [Models for Adversarial Training](https://github.com/zzmtsvv/adversarial)
 * [Implementation of 2 Offline2Online Reinforcement Learning Algorithms](https://github.com/zzmtsvv/rl_task)
 * [HiFi-GAN Realization](https://github.com/zzmtsvv/hifi-gan)
+* [Mini-engine for automatic differentiation on NumPy](https://github.com/zzmtsvv/smaller_micrograd/tree/main)
 * [WaveNet Realization](https://github.com/zzmtsvv/wavenet-realization)
 * [Mini Research on Degree of Robustness in Image Reconstruction Task](https://github.com/zzmtsvv/mil_task)
 * [PPO algorithm playing in Doom](https://github.com/zzmtsvv/doom_rl)
