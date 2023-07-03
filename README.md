@@ -6,7 +6,7 @@ I'm Alex, a 19 y.o. beginner in Machine Learning at NUST MISIS
 
 ### 💻 Projects
 * [Tools for Hyperbolic Neural Networks](https://github.com/zzmtsvv/hyperbolic)
-* [Models for Adversarial Training](https://github.com/zzmtsvv/adversarial)
+* [Models for Adversarial Training in Computer Vision](https://github.com/zzmtsvv/adversarial)
 * [Implementation of 2 Offline2Online Reinforcement Learning Algorithms](https://github.com/zzmtsvv/rl_task)
 * [HiFi-GAN Realization](https://github.com/zzmtsvv/hifi-gan)
 * [Mini-engine for automatic differentiation on NumPy](https://github.com/zzmtsvv/smaller_micrograd)
