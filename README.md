@@ -15,7 +15,7 @@ I'm Alex, a 19 y.o. beginner in Machine Learning at NUST MISIS
 * [PPO algorithm playing in Doom](https://github.com/zzmtsvv/doom_rl)
 * [Detection of Blur Artifacts in Histopathological Whole-Slide Images of Endomyocardial Biopsies](https://github.com/zzmtsvv/Blur_Artifacts_Detection)
 * [A small review on paper about disrupting deepfakes](https://github.com/zzmtsvv/disrupting_deepfakes_review)
-* [Toy experiments with algorithms playing chess](https://github.com/zzmtsvv/chess_algorithms)
+* [Algorithms playing chess](https://github.com/zzmtsvv/lichess-bot)
 * [Face Recognition via Metric Learning](https://github.com/zzmtsvv/face_metric_learning)
 * [Our 4th Place Solution to Marking Hack 2023](https://github.com/proton-bit/MarkingHack)
 
