@@ -9,6 +9,7 @@ I'm Alex, a 19 y.o. beginner in Machine Learning at NUST MISIS
 * [Models for Adversarial Training in Computer Vision](https://github.com/zzmtsvv/adversarial)
 * [Implementation of Offline2Online Reinforcement Learning Algorithms](https://github.com/zzmtsvv/rl_task)
 * [PyTorch SAC RND Implementation](https://github.com/zzmtsvv/sac_rnd)
+* [Robust Offline Reinforcement Learning Implementation](https://github.com/zzmtsvv/rorl)
 * [HiFi-GAN Realization](https://github.com/zzmtsvv/hifi-gan)
 * [Mini-engine for automatic differentiation on NumPy](https://github.com/zzmtsvv/smaller_micrograd)
 * [WaveNet Realization](https://github.com/zzmtsvv/wavenet-realization)
