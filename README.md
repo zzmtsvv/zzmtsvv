@@ -1,3 +1,5 @@
+I'm Alex, a 20 y.o. student deeply interested in Reinforcement Learning
+
 <h2 align="left">Selected Works</h3>
 
 <ul>
