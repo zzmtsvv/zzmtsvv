@@ -1,4 +1,4 @@
-I'm Alex, a 20 y.o. student deeply interested in Reinforcement Learning
+<h3>I'm Alex, a 20 y.o. student deeply interested in Reinforcement Learning</h3>
 
 <h2 align="left">Selected Works</h3>
 
